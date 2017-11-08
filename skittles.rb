@@ -8,4 +8,4 @@ scores.each do |score|
   sum += score
 end
 
-puts "The sum of #{scores} is #{sum}. The average is #{sum / scores.length}"
+puts "The sum of #{scores} is #{sum}. The average is #{sum / scores.length}."
